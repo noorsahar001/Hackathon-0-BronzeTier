@@ -1,0 +1,13 @@
+[2026-04-13 16:08:58] [INFO] [FilesystemWatcher] - Initialized FilesystemWatcher
+[2026-04-13 16:08:58] [INFO] [FilesystemWatcher] - Vault path: .
+[2026-04-13 16:08:58] [INFO] [FilesystemWatcher] - Check interval: 120 seconds
+[2026-04-13 16:08:58] [INFO] [FilesystemWatcher] - Filesystem watcher initialized
+[2026-04-13 16:08:58] [INFO] [FilesystemWatcher] - Monitoring: Inbox
+[2026-04-13 16:08:58] [INFO] [FilesystemWatcher] - Starting Filesystem Watcher
+[2026-04-13 16:08:58] [INFO] [FilesystemWatcher] - Monitoring: Inbox
+[2026-04-13 16:08:58] [INFO] [FilesystemWatcher] - Press Ctrl+C to stop
+[2026-04-13 16:08:58] [INFO] [FilesystemWatcher] - Filesystem watcher started successfully
+[2026-04-13 16:09:11] [INFO] [FilesystemWatcher] - New file detected: testWork.txt
+[2026-04-13 16:09:11] [INFO] [FilesystemWatcher] - Processing file: testWork.txt (47 bytes)
+[2026-04-13 16:09:11] [INFO] [FilesystemWatcher] - Copied file to Needs_Action - testWork.txt -> testWork.txt
+[2026-04-13 16:09:11] [INFO] [FilesystemWatcher] - Created metadata file - For: testWork.txt

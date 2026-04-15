@@ -1,0 +1,168 @@
+[2026-04-13 16:09:39] [INFO] [GmailWatcher] - Initialized GmailWatcher
+[2026-04-13 16:09:39] [INFO] [GmailWatcher] - Vault path: .
+[2026-04-13 16:09:39] [INFO] [GmailWatcher] - Check interval: 120 seconds
+[2026-04-13 16:09:39] [INFO] [GmailWatcher] - DRY_RUN mode: True
+[2026-04-13 16:09:39] [WARNING] [GmailWatcher] - Running in DRY_RUN mode - no files will be created
+[2026-04-13 16:09:39] [INFO] [GmailWatcher] - Starting GmailWatcher run loop
+[2026-04-13 16:09:39] [INFO] [GmailWatcher] - Press Ctrl+C to stop
+[2026-04-13 16:09:39] [INFO] [GmailWatcher] - Checking for updates...
+[2026-04-13 16:09:39] [INFO] [GmailWatcher] - Initializing Gmail API service
+[2026-04-13 16:09:39] [INFO] [GmailWatcher] - Loading existing Gmail token
+[2026-04-13 16:09:41] [INFO] [GmailWatcher] - Found 40 unread important email(s)
+[2026-04-13 16:09:42] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19d03e45b3f7023d.md
+[2026-04-13 16:09:42] [INFO] [GmailWatcher] - [DRY_RUN] Subject: [GitHub] Vercel is requesting updated permissions
+[2026-04-13 16:09:42] [INFO] [GmailWatcher] - [DRY_RUN] From: GitHub <noreply@github.com>
+[2026-04-13 16:09:43] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19c822e07fa4c0f9.md
+[2026-04-13 16:09:43] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Verify your email address
+[2026-04-13 16:09:43] [INFO] [GmailWatcher] - [DRY_RUN] From: Shopify <mailer@shopify.com>
+[2026-04-13 16:09:44] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19c6849a8ab7b658.md
+[2026-04-13 16:09:44] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Noor, here's your PIN 185774
+[2026-04-13 16:09:44] [INFO] [GmailWatcher] - [DRY_RUN] From: LinkedIn <security-noreply@linkedin.com>
+[2026-04-13 16:09:44] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19c43f3a2f864b93.md
+[2026-04-13 16:09:44] [INFO] [GmailWatcher] - [DRY_RUN] Subject: New login to your Hugging Face account
+[2026-04-13 16:09:44] [INFO] [GmailWatcher] - [DRY_RUN] From: huggingface <website@huggingface.co>
+[2026-04-13 16:09:45] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19bd265447819a8f.md
+[2026-04-13 16:09:45] [INFO] [GmailWatcher] - [DRY_RUN] Subject: [GitHub] Sudo email verification code
+[2026-04-13 16:09:45] [INFO] [GmailWatcher] - [DRY_RUN] From: GitHub <noreply@github.com>
+[2026-04-13 16:09:45] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19ba21ca83329706.md
+[2026-04-13 16:09:45] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Welcome to Perplexity
+[2026-04-13 16:09:45] [INFO] [GmailWatcher] - [DRY_RUN] From: Perplexity <team@mail.perplexity.ai>
+[2026-04-13 16:09:46] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b7657cc2bccbbf.md
+[2026-04-13 16:09:46] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Failed production deployment on team 'Noor Sahar's projects'
+[2026-04-13 16:09:46] [INFO] [GmailWatcher] - [DRY_RUN] From: Vercel <notifications@vercel.com>
+[2026-04-13 16:09:47] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b765449bbef093.md
+[2026-04-13 16:09:47] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Failed production deployments on team 'Noor Sahar's projects'
+[2026-04-13 16:09:47] [INFO] [GmailWatcher] - [DRY_RUN] From: Vercel <notifications@vercel.com>
+[2026-04-13 16:09:47] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b764f3af0e0c34.md
+[2026-04-13 16:09:47] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Failed production deployment on team 'Noor Sahar's projects'
+[2026-04-13 16:09:47] [INFO] [GmailWatcher] - [DRY_RUN] From: Vercel <notifications@vercel.com>
+[2026-04-13 16:09:48] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b6f5b204162bee.md
+[2026-04-13 16:09:48] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Your course is waiting for you
+[2026-04-13 16:09:48] [INFO] [GmailWatcher] - [DRY_RUN] From: Great Learning <gla@academy.greatlearning.in>
+[2026-04-13 16:09:48] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b61f4a91240488.md
+[2026-04-13 16:09:48] [INFO] [GmailWatcher] - [DRY_RUN] Subject: 2-Step Verification turned on
+[2026-04-13 16:09:48] [INFO] [GmailWatcher] - [DRY_RUN] From: Google <no-reply@accounts.google.com>
+[2026-04-13 16:09:49] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b61f46e4d271a1.md
+[2026-04-13 16:09:49] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Security alert
+[2026-04-13 16:09:49] [INFO] [GmailWatcher] - [DRY_RUN] From: Google <no-reply@accounts.google.com>
+[2026-04-13 16:09:50] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b61f40367522fe.md
+[2026-04-13 16:09:50] [INFO] [GmailWatcher] - [DRY_RUN] Subject: 2-Step Verification turned on
+[2026-04-13 16:09:50] [INFO] [GmailWatcher] - [DRY_RUN] From: Google <no-reply@accounts.google.com>
+[2026-04-13 16:09:50] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b61f3e77d7cb82.md
+[2026-04-13 16:09:50] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Security alert
+[2026-04-13 16:09:50] [INFO] [GmailWatcher] - [DRY_RUN] From: Google <no-reply@accounts.google.com>
+[2026-04-13 16:09:51] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b3e6e61a64f22b.md
+[2026-04-13 16:09:51] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Welcome to Great Learning, here is what’s in store for you!
+[2026-04-13 16:09:51] [INFO] [GmailWatcher] - [DRY_RUN] From: GL Academy <gla@academy.greatlearning.in>
+[2026-04-13 16:09:51] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b0d3ae9a4cec68.md
+[2026-04-13 16:09:51] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Build smarter search with advanced filtering
+[2026-04-13 16:09:51] [INFO] [GmailWatcher] - [DRY_RUN] From: Qdrant Team <no-reply@qdrant.io>
+[2026-04-13 16:09:52] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19ae5e8df1f47ed0.md
+[2026-04-13 16:09:52] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Thank You for Completing the Agents Intensive Capstone Project!
+[2026-04-13 16:09:52] [INFO] [GmailWatcher] - [DRY_RUN] From: Google Events <no-reply-eventsatgoogle@google.com>
+[2026-04-13 16:09:53] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19ad0fb250e9c4ee.md
+[2026-04-13 16:09:53] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Welcome to SHEIN!
+[2026-04-13 16:09:53] [INFO] [GmailWatcher] - [DRY_RUN] From: SHEIN <noreply@sheinnotice.com>
+[2026-04-13 16:09:53] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_199d598277c6424b.md
+[2026-04-13 16:09:53] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Re: Entrance Exam Schedule – Saylani Mass IT Training (12th October, 9:00 AM)
+[2026-04-13 16:09:53] [INFO] [GmailWatcher] - [DRY_RUN] From: Syed Zadi <syedzadi451@gmail.com>
+[2026-04-13 16:09:54] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_199d52b927776f5b.md
+[2026-04-13 16:09:54] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Re: Entrance Exam Schedule – Saylani Mass IT Training (12th October, 9:00 AM)
+[2026-04-13 16:09:54] [INFO] [GmailWatcher] - [DRY_RUN] From: Mohammad siddique <m.s.maliawala22@gmail.com>
+[2026-04-13 16:09:55] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_199d2c735db2b12a.md
+[2026-04-13 16:09:55] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Re: Entrance Exam Schedule – Saylani Mass IT Training (12th October, 9:00 AM)
+[2026-04-13 16:09:55] [INFO] [GmailWatcher] - [DRY_RUN] From: Tahira Abdulaziz <tahiraabdulaziz83@gmail.com>
+[2026-04-13 16:09:55] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_199d2c550b10befa.md
+[2026-04-13 16:09:55] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Re: Entrance Exam Schedule – Saylani Mass IT Training (12th October, 9:00 AM)
+[2026-04-13 16:09:55] [INFO] [GmailWatcher] - [DRY_RUN] From: Amreen Sultan <amreensultan605@gmail.com>
+[2026-04-13 16:09:56] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_199ba69664fb013e.md
+[2026-04-13 16:09:56] [INFO] [GmailWatcher] - [DRY_RUN] Subject: SMIT I.T Examination fee
+[2026-04-13 16:09:56] [INFO] [GmailWatcher] - [DRY_RUN] From: Blinq Service <no-reply@blinq.com.pk>
+[2026-04-13 16:09:56] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_199a1e6733e25719.md
+[2026-04-13 16:09:56] [INFO] [GmailWatcher] - [DRY_RUN] Subject: New login on your Fiverr account
+[2026-04-13 16:09:56] [INFO] [GmailWatcher] - [DRY_RUN] From: Fiverr <noreply@e.fiverr.com>
+[2026-04-13 16:09:57] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_199332a7f6463766.md
+[2026-04-13 16:09:57] [INFO] [GmailWatcher] - [DRY_RUN] From: foodpanda <contact@info.foodpanda.pk>
+[2026-04-13 16:09:58] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_1992cd96024c6743.md
+[2026-04-13 16:09:58] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Weather API Trial Ended - WeatherAPI.com
+[2026-04-13 16:09:58] [INFO] [GmailWatcher] - [DRY_RUN] From: "WeatherAPI.com Team" <support@weatherapi.com>
+[2026-04-13 16:09:58] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19928908456ba7e5.md
+[2026-04-13 16:09:58] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Inspired by Noor
+[2026-04-13 16:09:58] [INFO] [GmailWatcher] - [DRY_RUN] From: Pinterest <recommendations@inspire.pinterest.com>
+[2026-04-13 16:09:59] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_199287b35950b674.md
+[2026-04-13 16:09:59] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Welcome to Gemini
+[2026-04-13 16:09:59] [INFO] [GmailWatcher] - [DRY_RUN] From: Google Gemini <google-gemini-noreply@google.com>
+[2026-04-13 16:10:00] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_195489e83d344a37.md
+[2026-04-13 16:10:00] [INFO] [GmailWatcher] - [DRY_RUN] From: Streamlit team <streamlitcommunity@snowflake.com>
+[2026-04-13 16:10:01] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_194c99b98ddc48e5.md
+[2026-04-13 16:10:01] [INFO] [GmailWatcher] - [DRY_RUN] Subject: DeepSeek Is Chinese But Its AI Models Are From Another Planet | Alberto Romero
+[2026-04-13 16:10:01] [INFO] [GmailWatcher] - [DRY_RUN] From: Medium Daily Digest <noreply@medium.com>
+[2026-04-13 16:10:02] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_193b76a59b6e060b.md
+[2026-04-13 16:10:02] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Email verification code: 267155
+[2026-04-13 16:10:02] [INFO] [GmailWatcher] - [DRY_RUN] From: Google <noreply@google.com>
+[2026-04-13 16:10:02] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19356d29b1b7aa69.md
+[2026-04-13 16:10:02] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Data Collector for AI Models | Pakistan | Remote, Part Time, Work from Home job at RWS Group: Actively recruiting
+[2026-04-13 16:10:02] [INFO] [GmailWatcher] - [DRY_RUN] From: LinkedIn <jobs-listings@linkedin.com>
+[2026-04-13 16:10:03] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_1934c85850b726ad.md
+[2026-04-13 16:10:03] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Sales Development Representative (Remote - Work From Home) role at DemandHub is available
+[2026-04-13 16:10:03] [INFO] [GmailWatcher] - [DRY_RUN] From: LinkedIn <jobs-listings@linkedin.com>
+[2026-04-13 16:10:03] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19322963ffb3eb6f.md
+[2026-04-13 16:10:03] [INFO] [GmailWatcher] - [DRY_RUN] Subject: candese_can, see midra2023, _huzaifa_ghouri and more in your feed
+[2026-04-13 16:10:03] [INFO] [GmailWatcher] - [DRY_RUN] From: midra2023 on Instagram <no-reply@mail.instagram.com>
+[2026-04-13 16:10:04] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19317ba8dd5dcdfb.md
+[2026-04-13 16:10:04] [INFO] [GmailWatcher] - [DRY_RUN] Subject: candese_can, catch up on moments you've missed
+[2026-04-13 16:10:04] [INFO] [GmailWatcher] - [DRY_RUN] From: farzeen_official on Instagram <no-reply@mail.instagram.com>
+[2026-04-13 16:10:05] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19307c8a199f29af.md
+[2026-04-13 16:10:05] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Notion 2.46
+[2026-04-13 16:10:05] [INFO] [GmailWatcher] - [DRY_RUN] From: Ivan at Notion <ivan@mail.notion.so>
+[2026-04-13 16:10:05] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_192f34affeef1b7e.md
+[2026-04-13 16:10:05] [INFO] [GmailWatcher] - [DRY_RUN] Subject: candese_can, see midra2023, ha_seeb704 and more in your feed
+[2026-04-13 16:10:05] [INFO] [GmailWatcher] - [DRY_RUN] From: midra2023 on Instagram <no-reply@mail.instagram.com>
+[2026-04-13 16:10:06] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_192ede1dca0c1643.md
+[2026-04-13 16:10:06] [INFO] [GmailWatcher] - [DRY_RUN] Subject: candese_can, catch up on moments you've missed
+[2026-04-13 16:10:06] [INFO] [GmailWatcher] - [DRY_RUN] From: tarifkhan7829 on Instagram <no-reply@mail.instagram.com>
+[2026-04-13 16:10:07] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_1929bc40eb16e28d.md
+[2026-04-13 16:10:07] [INFO] [GmailWatcher] - [DRY_RUN] Subject: candese_can, catch up on moments you've missed
+[2026-04-13 16:10:07] [INFO] [GmailWatcher] - [DRY_RUN] From: nehamunda441 on Instagram <no-reply@mail.instagram.com>
+[2026-04-13 16:10:07] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_191db1ee1b15d326.md
+[2026-04-13 16:10:07] [INFO] [GmailWatcher] - [DRY_RUN] Subject: You’re now open to work - we can help you get noticed
+[2026-04-13 16:10:07] [INFO] [GmailWatcher] - [DRY_RUN] From: LinkedIn <career-interests-noreply@linkedin.com>
+[2026-04-13 16:10:07] [INFO] [GmailWatcher] - No new items found
+[2026-04-13 16:12:07] [INFO] [GmailWatcher] - Checking for updates...
+[2026-04-13 16:12:08] [INFO] [GmailWatcher] - Found 40 unread important email(s)
+[2026-04-13 16:12:08] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19d03e45b3f7023d.md
+[2026-04-13 16:12:08] [INFO] [GmailWatcher] - [DRY_RUN] Subject: [GitHub] Vercel is requesting updated permissions
+[2026-04-13 16:12:08] [INFO] [GmailWatcher] - [DRY_RUN] From: GitHub <noreply@github.com>
+[2026-04-13 16:12:09] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19c822e07fa4c0f9.md
+[2026-04-13 16:12:09] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Verify your email address
+[2026-04-13 16:12:09] [INFO] [GmailWatcher] - [DRY_RUN] From: Shopify <mailer@shopify.com>
+[2026-04-13 16:12:10] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19c6849a8ab7b658.md
+[2026-04-13 16:12:10] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Noor, here's your PIN 185774
+[2026-04-13 16:12:10] [INFO] [GmailWatcher] - [DRY_RUN] From: LinkedIn <security-noreply@linkedin.com>
+[2026-04-13 16:12:11] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19c43f3a2f864b93.md
+[2026-04-13 16:12:11] [INFO] [GmailWatcher] - [DRY_RUN] Subject: New login to your Hugging Face account
+[2026-04-13 16:12:11] [INFO] [GmailWatcher] - [DRY_RUN] From: huggingface <website@huggingface.co>
+[2026-04-13 16:12:11] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19bd265447819a8f.md
+[2026-04-13 16:12:11] [INFO] [GmailWatcher] - [DRY_RUN] Subject: [GitHub] Sudo email verification code
+[2026-04-13 16:12:11] [INFO] [GmailWatcher] - [DRY_RUN] From: GitHub <noreply@github.com>
+[2026-04-13 16:12:12] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19ba21ca83329706.md
+[2026-04-13 16:12:12] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Welcome to Perplexity
+[2026-04-13 16:12:12] [INFO] [GmailWatcher] - [DRY_RUN] From: Perplexity <team@mail.perplexity.ai>
+[2026-04-13 16:12:13] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b7657cc2bccbbf.md
+[2026-04-13 16:12:13] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Failed production deployment on team 'Noor Sahar's projects'
+[2026-04-13 16:12:13] [INFO] [GmailWatcher] - [DRY_RUN] From: Vercel <notifications@vercel.com>
+[2026-04-13 16:12:13] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b765449bbef093.md
+[2026-04-13 16:12:13] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Failed production deployments on team 'Noor Sahar's projects'
+[2026-04-13 16:12:13] [INFO] [GmailWatcher] - [DRY_RUN] From: Vercel <notifications@vercel.com>
+[2026-04-13 16:12:14] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b764f3af0e0c34.md
+[2026-04-13 16:12:14] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Failed production deployment on team 'Noor Sahar's projects'
+[2026-04-13 16:12:14] [INFO] [GmailWatcher] - [DRY_RUN] From: Vercel <notifications@vercel.com>
+[2026-04-13 16:12:14] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b6f5b204162bee.md
+[2026-04-13 16:12:14] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Your course is waiting for you
+[2026-04-13 16:12:14] [INFO] [GmailWatcher] - [DRY_RUN] From: Great Learning <gla@academy.greatlearning.in>
+[2026-04-13 16:12:15] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b61f4a91240488.md
+[2026-04-13 16:12:15] [INFO] [GmailWatcher] - [DRY_RUN] Subject: 2-Step Verification turned on
+[2026-04-13 16:12:15] [INFO] [GmailWatcher] - [DRY_RUN] From: Google <no-reply@accounts.google.com>
+[2026-04-13 16:12:16] [INFO] [GmailWatcher] - [DRY_RUN] Would create: Needs_Action\EMAIL_19b61f46e4d271a1.md
+[2026-04-13 16:12:16] [INFO] [GmailWatcher] - [DRY_RUN] Subject: Security alert
+[2026-04-13 16:12:16] [INFO] [GmailWatcher] - [DRY_RUN] From: Google <no-reply@accounts.google.com>
